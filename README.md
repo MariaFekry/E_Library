@@ -1,2 +1,2 @@
 # E-Library-project
-for web development summer training 2022
+A Website for A library each user has their own account and can buy books, see latest events being held in the library
